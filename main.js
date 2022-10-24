@@ -1,1 +1,1 @@
-console.log("Hire me!")
+console.log("If you are reading this you should hire me!")
