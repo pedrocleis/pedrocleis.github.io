@@ -1,1 +1,1 @@
-console.log("If you are reading this you should hire me!")
+console.log("I'm rendering the pdf in-browser, yes, you should hire me!")
