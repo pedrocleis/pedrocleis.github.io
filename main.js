@@ -1,1 +1,0 @@
-console.log("I'm rendering the pdf in-browser, yes, you should hire me!")
